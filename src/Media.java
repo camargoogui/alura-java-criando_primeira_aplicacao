@@ -1,3 +1,5 @@
+// Crie um programa que realize a média de duas notas decimais e exiba o resultado.
+
 public class Media {
     public static void main(String[] args) {
         double nota1 = 8.3;
