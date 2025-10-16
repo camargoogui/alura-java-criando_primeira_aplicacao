@@ -1,4 +1,4 @@
-// Crie um programa que realize a média de duas notas decimais e exiba o resultado.
+package Exercicios;// Crie um programa que realize a média de duas notas decimais e exiba o resultado.
 
 public class Media {
     public static void main(String[] args) {
